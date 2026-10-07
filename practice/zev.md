@@ -1,3 +1,3 @@
-Skils 
+Skils
     1. Debug ability.
-    2. Quick use Unlocked.
+    2. Quick use [Unlocked].
